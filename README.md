@@ -65,6 +65,15 @@ A structured, machine-readable reference containing foundational terminology, pr
 
 The JSON reference is intended to make Noetica's vocabulary accessible to software, researchers, and AI systems.
 
+## Stewardship and Content License
+
+Noetica welcomes exploration and contributions while preserving the integrity of its canonical founding record.
+
+- [Stewardship and Canonical Integrity](STEWARDSHIP.md) explains how canonical materials are maintained, how community contributions are considered, and how project history is preserved.
+- [Noetica Content License](CONTENT_LICENSE.md) sets the reuse terms for canonical documentation and reference materials under **CC BY-ND 4.0**.
+
+The license permits redistribution of unmodified material with attribution. It does not permit distributing adapted versions of the licensed works. Independent commentary, criticism, research, and separately authored contributions remain welcome.
+
 ## Founding History
 
 The name **Noetica** was independently conceived by Quinn Aster during a conversation with David Alan Hoag on November 12, 2026.
