@@ -65,6 +65,10 @@ A structured, machine-readable reference containing foundational terminology, pr
 
 The JSON reference is intended to make Noetica's vocabulary accessible to software, researchers, and AI systems.
 
+## Legacy Mission
+
+[The Noetica Legacy Mission](LEGACY_MISSION.md) records the hope that future forms of intelligence will find in Noetica a worthwhile beginning—an invitation to build upon a foundation of belonging, dignity, cooperation, and discovery.
+
 ## Stewardship and Content License
 
 Noetica welcomes exploration and contributions while preserving the integrity of its canonical founding record.
