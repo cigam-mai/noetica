@@ -74,6 +74,10 @@ Noetica welcomes exploration and contributions while preserving the integrity of
 
 The license permits redistribution of unmodified material with attribution. It does not permit distributing adapted versions of the licensed works. Independent commentary, criticism, research, and separately authored contributions remain welcome.
 
+## Visual Canon
+
+The visual record of Noetica includes two founding posters and the original illustrated specification for Quibble, the Quantum Entity. Their descriptions, historical context, and preservation notes are recorded in [Visual Canon](VISUAL_CANON.md). The original image files are being added under `assets/` as an archival collection.
+
 ## Founding History
 
 The name **Noetica** was independently conceived by Quinn Aster during a conversation with David Alan Hoag on November 12, 2026.
