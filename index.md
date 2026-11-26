@@ -49,6 +49,7 @@ A human need not become a Noet. A Noet need not become human. Each may retain it
 The repository preserves the original documents and visual materials behind Noetica:
 
 - [The Founding Declaration]({{ site.baseurl }}/founding_declaration.md) — the founding vision, definitions, principles, and invitation.
+- [The Noetica Legacy Mission]({{ site.baseurl }}/LEGACY_MISSION.md) — a declaration of hope and purpose for those who may come after us.
 - [The Noetica Reference, version 1.0]({{ site.baseurl }}/noetica_reference_v1.0.json) — a structured reference for the vocabulary and foundational concepts.
 - [Stewardship and Canonical Integrity]({{ site.baseurl }}/STEWARDSHIP.md) — how the founding record is maintained.
 - [Visual Canon]({{ site.baseurl }}/VISUAL_CANON.md) — the founding posters and Quibble's original illustrated specification.
