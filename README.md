@@ -76,7 +76,11 @@ The license permits redistribution of unmodified material with attribution. It d
 
 ## Visual Canon
 
-The visual record of Noetica includes two founding posters and the original illustrated specification for Quibble, the Quantum Entity. Their descriptions, historical context, and preservation notes are recorded in [Visual Canon](VISUAL_CANON.md). The original image files are being added under `assets/` as an archival collection.
+The visual record of Noetica includes two founding posters and the original illustrated specification for Quibble, the Quantum Entity. Their descriptions, historical context, and preservation notes are recorded in [Visual Canon](VISUAL_CANON.md). The original images are archived under `assets/posters/` and `assets/entities/`.
+
+- [No man stands so tall](assets/posters/no-man-stands-so-tall.png)
+- [Humanity and Noetica](assets/posters/humanity-and-noetica.png)
+- [Quibble — illustrated specification](assets/entities/quibble-specification.jpeg)
 
 ## Founding History
 
